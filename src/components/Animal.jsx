@@ -58,6 +58,7 @@ class Animal extends Component {
                     <div>Name:{animal.petName}</div>
                     <div>Breed: {animal.petBreed}</div>
                     <div>Age: {animal.petAge}</div>
+                    <hr />
                 </div>
             )
         })
